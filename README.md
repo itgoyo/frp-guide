@@ -56,7 +56,7 @@ remote_port = 9000
 
 ```
 
-#### 自启动命令
+#### 自启动命令❗️❗️❗️路径换成自己的别直接复制
 
 ```
 sudo vim /lib/systemd/system/frps.service 【我这里是vim，你们用自己的编辑器自行修改】
