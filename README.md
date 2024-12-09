@@ -81,7 +81,7 @@ WantedBy=multi-user.target
 ```
 
 ```
-sudo vim /lib/systemd/system/frps.service 【我这里是vim，你们用自己的编辑器自行修改】
+sudo vim /lib/systemd/system/frpc.service 【我这里是vim，你们用自己的编辑器自行修改】
 ```
 
 `frpc.service`内容如下
